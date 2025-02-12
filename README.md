@@ -1,2 +1,2 @@
-# ForstProject
+# FirstProject
 Hali hech narsa yo'q
